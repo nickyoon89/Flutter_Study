@@ -12,7 +12,9 @@ class CupertinoFirstPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return CupertinoPageScaffold(
         navigationBar: CupertinoNavigationBar(
-          middle: Text('동물 리스트'),
+          leading: CupertinoButton(child: Icon(CupertinoIcons.back), onPressed: (){},),
+          middle: Text('Animal List'),
+          trailing: CupertinoButton(child: Icon(CupertinoIcons.arrow_counterclockwise), onPressed: (){},),
         ),
         child: ListView.builder(
           itemBuilder: (context, index) {
@@ -44,6 +46,7 @@ class CupertinoFirstPage extends StatelessWidget {
                 showCupertinoDialog(context: context, builder: (context){
                   return CupertinoAlertDialog(
                     title: Text(animalList[index].animalName),
+                    content: Text(animalList[index].kind),
                   );
                 });
               },

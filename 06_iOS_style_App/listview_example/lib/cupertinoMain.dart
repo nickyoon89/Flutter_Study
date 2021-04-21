@@ -28,21 +28,21 @@ class _CupertinoMain extends State<CupertinoMain> {
     ]);
 
     animalList.add(
-        Animal(animalName: "벌", kind: "곤충", imagePath: "repo/images/bee.png"));
+        Animal(animalName: "Bee", kind: "Bug", imagePath: "repo/images/bee.png"));
     animalList.add(Animal(
-        animalName: "고양이", kind: "포유류", imagePath: "repo/images/cat.png"));
+        animalName: "Cat", kind: "Mammal", imagePath: "repo/images/cat.png"));
     animalList.add(Animal(
-        animalName: "젖소", kind: "포유류", imagePath: "repo/images/cow.png"));
+        animalName: "Cow", kind: "Mammal", imagePath: "repo/images/cow.png"));
     animalList.add(Animal(
-        animalName: "강아지", kind: "포유류", imagePath: "repo/images/dog.png"));
+        animalName: "Dog", kind: "Mammal", imagePath: "repo/images/dog.png"));
     animalList.add(Animal(
-        animalName: "여우", kind: "포유류", imagePath: "repo/images/fox.png"));
+        animalName: "Fox", kind: "Mammal", imagePath: "repo/images/fox.png"));
     animalList.add(Animal(
-        animalName: "원숭이", kind: "영장류", imagePath: "repo/images/monkey.png"));
+        animalName: "Monkey", kind: "Primates", imagePath: "repo/images/monkey.png"));
     animalList.add(Animal(
-        animalName: "돼지", kind: "포유류", imagePath: "repo/images/pig.png"));
+        animalName: "Pig", kind: "Mammal", imagePath: "repo/images/pig.png"));
     animalList.add(Animal(
-        animalName: "늑대", kind: "포유류", imagePath: "repo/images/wolf.png"));
+        animalName: "Wolf", kind: "Mammal", imagePath: "repo/images/wolf.png"));
 
   }
 

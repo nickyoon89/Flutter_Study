@@ -1,4 +1,5 @@
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 
 import '../animalItem.dart';
 
@@ -21,17 +22,15 @@ class _CupertinoSecondPage extends State<CupertinoSecondPage> {
 
   Map<int, Widget> segmentWidgets = {
     0: SizedBox(
-      child: Text('양서류', textAlign: TextAlign.center),
+      child: Text('Amphibian', textAlign: TextAlign.center),
       width: 80,
     ),
     1: SizedBox(
-      child: Text('포유류', textAlign: TextAlign.center),
+      child: Text('Mammal', textAlign: TextAlign.center),
       width: 80,
     ),
     2: SizedBox(
-      child: Text(
-        '파충류',
-        textAlign: TextAlign.center,
+      child: Text('Reptile', textAlign: TextAlign.center,
       ),
       width: 80,
     )
@@ -47,7 +46,7 @@ class _CupertinoSecondPage extends State<CupertinoSecondPage> {
   Widget build(BuildContext context) {
     return CupertinoPageScaffold(
       navigationBar: CupertinoNavigationBar(
-        middle: Text('동물 추가'),
+        middle: Text('Add Animals'),
       ),
       child: Container(
         child: Center(
@@ -128,7 +127,8 @@ class _CupertinoSecondPage extends State<CupertinoSecondPage> {
                 ),
               ),
               CupertinoButton(
-                  child: Text('동물 추가하기'),
+                  child: Text('Add Animal'),
+                  color: Colors.blue,
                   onPressed: () {
                     widget.animalList.add(Animal(
                         animalName: _textController.value.text,
@@ -147,11 +147,11 @@ class _CupertinoSecondPage extends State<CupertinoSecondPage> {
   getKind(int kindChoice) {
     switch (kindChoice) {
       case 0:
-        return "양서류";
+        return "Amphibian";
       case 1:
-        return "파충류";
+        return "Reptile";
       case 2:
-        return "포유류";
+        return "Mammal";
     }
   }
 }

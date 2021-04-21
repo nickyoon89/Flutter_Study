@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 
 import 'animalItem.dart';
 import 'cupertinoMain.dart';
-import 'sub/firstPage.dart';
-import 'sub/secondPage.dart';
 
 void main() {
   runApp(MyApp());
@@ -23,6 +21,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+/*
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key key, this.title}) : super(key: key);
   final String title;
@@ -83,4 +82,4 @@ class _MyHomePageState extends State<MyHomePage> with SingleTickerProviderStateM
     controller.dispose();
     super.dispose();
   }
-}
+}*/
