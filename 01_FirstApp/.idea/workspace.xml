@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -38,9 +41,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../doitflutter-master/doitflutter-master/Chapter5/listview_example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -67,9 +71,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1020" y="185" key="FileChooserDialogImpl" timestamp="1618885008086">
-      <screen x="-1600" y="0" width="1600" height="860" />
+    <state x="696" y="224" key="FileChooserDialogImpl" timestamp="1621181778629">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1020" y="185" key="FileChooserDialogImpl/0.0.1920.1040/-1600.0.1600.860@-1600.0.1600.860" timestamp="1618885008086" />
+    <state x="696" y="224" key="FileChooserDialogImpl/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1621181778629" />
+    <state x="535" y="203" key="new project wizard" timestamp="1621181843813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="535" y="203" key="new project wizard/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1621181843813" />
   </component>
 </project>

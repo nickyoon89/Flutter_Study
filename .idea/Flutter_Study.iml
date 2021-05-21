@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/01_FirstApp/first_flutter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/01_FirstApp/first_flutter_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/02_Dart/flutter_package/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/02_Dart/flutter_package/build" />
+      <excludeFolder url="file://$MODULE_DIR$/03_Flutter_Structure/flutter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/03_Flutter_Structure/flutter_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Flutter_Widget/material_flutter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Flutter_Widget/material_flutter_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Flutter_Widget/widget_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/04_Flutter_Widget/widget_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/05_TabBar_List/listview_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05_TabBar_List/listview_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/06_iOS_style_App/listview_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/06_iOS_style_App/listview_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/07_Network/http_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/07_Network/http_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/07_Network/largefile_download/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/07_Network/largefile_download/build" />
+      <excludeFolder url="file://$MODULE_DIR$/08_Navigation/subpage_example1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/08_Navigation/subpage_example1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/08_Navigation/subpage_example2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/08_Navigation/subpage_example2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/09_Internal_Storage/internal_example1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/09_Internal_Storage/internal_example1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/09_Internal_Storage/internal_example2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/09_Internal_Storage/internal_example2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/09_Internal_Storage/internal_example3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/09_Internal_Storage/internal_example3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/10_Database/sql_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/10_Database/sql_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/11_Animation/animation_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/11_Animation/animation_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/12_NativeAPI/ios_native_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/12_NativeAPI/ios_native_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/12_NativeAPI/native_example1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/12_NativeAPI/native_example1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/12_NativeAPI/native_example2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/12_NativeAPI/native_example2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/12_NativeAPI/native_example3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/12_NativeAPI/native_example3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/13_Firebase/firebase_example1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/13_Firebase/firebase_example1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/13_Firebase/firebase_example2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/13_Firebase/firebase_example2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/14_OpenAPI/modu_tour/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/14_OpenAPI/modu_tour/build" />
+      <excludeFolder url="file://$MODULE_DIR$/FinalProject/modu_tour/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/FinalProject/modu_tour/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
